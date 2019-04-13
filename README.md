@@ -1,4 +1,4 @@
-# Sitio Web con Responsive Desigh
+# Sitio Web con Responsive Desing
 
 Sitio web Desarrollado con tecnologia Html y CSS
 
